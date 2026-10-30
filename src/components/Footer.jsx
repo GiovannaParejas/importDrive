@@ -7,7 +7,7 @@ const Footer = () => {
         <p>
           Import<span className="text-brand">Drive</span> | Locação de Carros Importados
         </p>
-        <p>© {ano} | Turma 1ESPI | Todos os direitos reservados</p>
+        <p className="text-center">© {ano} | Turma 1ESPI | Todos os direitos reservados</p>
       </div>
     </footer>
   )
