@@ -2,5 +2,9 @@
 
 @theme {
   --font-sans: "Inter", sans-serif;
-  --color-brand: #f5c542;
+  --color-brand: #facc15;
+}
+
+body {
+  @apply bg-zinc-950 text-zinc-100;
 }
